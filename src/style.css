@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+.kartyak {
+  flex: 3;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}

@@ -29,7 +29,7 @@ id
 nev
 ar
 leiras
-created_at
+kedvezmeny
 
 
 
