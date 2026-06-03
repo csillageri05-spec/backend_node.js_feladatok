@@ -2,7 +2,7 @@
 import { lista } from "./adatok.js";
 import Kartyak from "./Kartyak.js";
 
-//const szuloElem = document.querySelector(".kartyak");
+const szuloElem = document.querySelector(".kartyak");
 //const url = "http://localhost:3000/termek";
 
 const services = lista;
